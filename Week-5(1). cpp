@@ -3,7 +3,7 @@ Write a program to print the no. of bytes used by the different data type using 
 
 #include<stdio.h>
 
-main() {
+int main() {
         printf("No. of bytes used by char = %d\n", sizeof(char));
         printf("No. of bytes used by short = %d\n", sizeof(short));
         printf("No. of bytes used by int = %d\n", sizeof(int));
