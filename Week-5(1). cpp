@@ -10,6 +10,6 @@ int main() {
         printf("No. of bytes used by long = %d\n",  size of(long));
         printf("No. of bytes used by float = %d\n", size of(float));
         printf("No. of bytes used by double = %d\n", size of(double));
-        printf("No. of bytes used by long double = %d\n", sizeof(long double));
+        printf("No. of bytes used by long double=%d\n", size of(long double));
         return 0;
 }
