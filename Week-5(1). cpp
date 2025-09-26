@@ -1,5 +1,5 @@
 /*Week-5 Task #1
-Write a program to print the no. of bytes used by the different data type using the sizeof() operator.*/
+Program to print the no. of bytes used by the different data type using the sizeof() operator.*/
 
 #include<stdio.h>
 
