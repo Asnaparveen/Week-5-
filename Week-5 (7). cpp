@@ -3,7 +3,7 @@ C Program to check whether an alphabet is vowel or consonant.*/
 
 #include<stdio.h>
 
-main() {
+int main() {
         char character;
         printf("Enter any alphabet: \n");
         scanf("%c", &character);
