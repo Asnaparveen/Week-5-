@@ -4,7 +4,7 @@ Note :- (both ways, using temporary variable and not using any other value) */
 
 #include<stdio.h>
 
-main() {
+int main() {
         {/*interchanging values with a temporary variabe*/
         int a, b, temp;
         printf("Enter two integer numbers: ");
