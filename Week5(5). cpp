@@ -4,7 +4,7 @@ Write a c Program to find the area and perimeter of the different Shapes.*/
 #include<stdio.h>
 #include<math.h>
 
-main() {
+int main() {
         float area, perimeter;
         /*i) Rectangle*/{
                 float length, width;
